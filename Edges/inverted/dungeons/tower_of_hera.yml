@@ -1,0 +1,48 @@
+UseBomb:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+Boomerang:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+RedBoomerang:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+L1Sword:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+Hammer:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+BowAndArrows:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+FireRod:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+Hookshot:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+Hookshot:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+CaneOfSomaria:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+IceRod:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []
+CaneOfByrna:
+  directed:
+  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
+  undirected: []

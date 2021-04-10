@@ -1,8 +1,11 @@
 fixed:
   directed:
-    - ["Tower Of Hera - Entrance", "Tower of Hera - Map Chest"]
-    - ["Tower Of Hera - Entrance", "Tower of Hera - Basement Door"]
-    - ["Tower Of Hera - Tile Room", "Tower Of Hera - Entrance"]
+    - ["Tower Of Hera - Crystal Switch", "Tower Of Hera - Entrance - Orange Pegs - Lower"]
+    - ["Tower Of Hera - Entrance - Orange Pegs - Upper", "Tower of Hera - Map Chest"]
+    - ["Tower Of Hera - Entrance - Blue Pegs - Upper", "Tower of Hera - Map Chest"]
+    - ["Tower of Hera - Entrance - Blue Pegs - Upper", "Tower of Hera - Basement Door"]
+    - ["Tower Of Hera - Tile Room", "Tower Of Hera - Entrance - Blue Pegs - Upper"]
+    - ["Tower Of Hera - Tile Room", "Tower Of Hera - Entrance - Orange Pegs - Upper"]
     - ["Tower Of Hera - Tile Room", "Tower Of Hera - Basement Corner"]
     - ["Tower Of Hera - Moldorm Cage", "Tower of Hera - Basement Cage"]
     - ["Tower Of Hera - Beetle Gate", "Tower Of Hera - Beetle Trap"]
@@ -15,9 +18,11 @@ fixed:
     - ["Tower Of Hera - Boss Room", "Tower of Hera - Boss"]
     - ["Tower of Hera - Boss", "Tower of Hera - Prize"]
   undirected:
+    - ["Tower Of Hera - Entrance - Blue Pegs - Lower", "Tower of Hera - Blue Pegs - Upper"]
+    - ["Tower Of Hera - Entrance - Blue Pegs - Lower", "Tower Of Hera - Entrance - Orange Pegs - Lower"]
     - ["Tower Of Hera - Basement Corner", "Tower Of Hera - Hidden Chest"]
-    - ["Tower Of Hera - Entrance", "Tower Of Hera - Moldorm Cage"]
-    - ["Tower Of Hera - Entrance", "Tower Of Hera - Beetle Gate"]
+    - ["Tower Of Hera - Entrance - Blue Pegs - Lower", "Tower Of Hera - Moldorm Cage"]
+    - ["Tower Of Hera - Entrance - Orange Pegs - Lower", "Tower Of Hera - Beetle Gate"]
     - ["Tower Of Hera - Maze", "Tower Of Hera - Petting Zoo"]
     - ["Tower Of Hera - Petting Zoo", "Tower Of Hera - Bumper Room"]
     - ["Tower Of Hera - Bumper Room", "Tower Of Hera - Boss Room"]
