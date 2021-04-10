@@ -49,4 +49,13 @@ return [
         'name' => "Lake Hylia whirlpool",
         'type' => 'warp',
     ],
+
+    #Glitched Vertices
+    [
+        'map' => 0x35,
+        'name' => "Lake Hylia - Waterwalk",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
+    
 ];

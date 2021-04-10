@@ -1,5 +1,10 @@
 PegasusBoots:
   directed:
-    - ["South Shore Falls", "South Shore Falls Waters"]
-    - ["Zora's Falls Pool", "Waterfall Fairy"]
-  undirected: []
+    - ["Ice Cave", "South Shore Falls - Waterwalk armed "]
+    - ["South Shore Falls - Waterwalk armed", "South Shore Falls Waters - Waterwalk"]
+    - ["Zora's Falls Pool - Waterwalk", "Zora's Falls"]
+  undirected: 
+    - ["South Shore Falls Waters - Waterwalk", "Lake Hylia - Waterwalk"]
+    - ["Lake Hylia - Waterwalk", "Zora's Falls Pool - Waterwalk"]
+    - ["Zora's Falls Pool - Waterwalk", "Waterfall Fairy"]
+    - ["Zora's Falls Pool - Waterwalk", "Zora's Domain Waterwalking"]
