@@ -441,4 +441,13 @@ return [
         'type' => 'prize',
         'itemset' => ['prize'],
     ],
+
+    #Glitched Vertices
+    [
+        'group' => 7,
+        'name' => "Palace of Darkness - Mimics 1 - E/W Camera",
+        'roomid' => 0x4b,
+        'layout' => Region::TOP_LEFT,
+        'type' => 'region',
+    ],
 ];

@@ -1,0 +1,9 @@
+Fixed:
+  directed:
+    - ["Palace of Darkness - Mimics 1 - E/W Camera", "Palace of Darkness - Conveyor"]
+  undirected: []
+Bottle: # Potion Camera Unlock
+  directed:
+    - ["Palace of Darkness - Mimics 1", "Palace of Darkness - Mimics 1 - E/W Camera"]
+  undirected: []
+    
