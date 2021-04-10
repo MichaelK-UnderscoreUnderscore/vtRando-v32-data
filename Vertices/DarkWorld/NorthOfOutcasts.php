@@ -19,4 +19,12 @@ return [
         'type' => 'region',
         'moonpearl' => true,
     ],
+
+    #Glitched Vertices
+    [
+        'map' => 0x51,
+        'name' => "North of Outcasts - Waterwalk armed",
+        'type' => 'region',
+        'moonpearl' => true,
+    ],
 ];

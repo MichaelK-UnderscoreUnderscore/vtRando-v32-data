@@ -1,10 +1,25 @@
 PegasusBoots:
   directed:
+            # Light World
     - ["Ice Cave", "South Shore Falls - Waterwalk armed "]
     - ["South Shore Falls - Waterwalk armed", "South Shore Falls Waters - Waterwalk"]
     - ["Zora's Falls Pool - Waterwalk", "Zora's Falls"]
+    - ["Hobo Bridge River - Waterwalk", "Hobo"]
+            #Dark World
+    - ["Skull Woods Southeast Branch", "Skull Woods Southeast Branch - Waterwalk armed"]
   undirected: 
+            # Light World
     - ["South Shore Falls Waters - Waterwalk", "Lake Hylia - Waterwalk"]
     - ["Lake Hylia - Waterwalk", "Zora's Falls Pool - Waterwalk"]
     - ["Zora's Falls Pool - Waterwalk", "Waterfall Fairy"]
     - ["Zora's Falls Pool - Waterwalk", "Zora's Domain Waterwalking"]
+    - ["Lake Hylia - Waterwalk", "Lake Hylia River Bend - Waterwalk"]
+    - ["Hobo Bridge River - Waterwalk", "Lake Hylia River Bend - Waterwalk"]
+            #Dark World
+    - ["Skull Woods Southeast Branch - Waterwalk armed", "North of Outcasts - Waterwalk armed"]
+    - ["North of Outcasts - Waterwalk armed", "Dark Northwest Pond - Waterwalk armed"]
+    - ["Dark Northwest Pond - Waterwalk armed", "Dark Sanctuary Cave - Waterwalk armed"]
+    - ["Dark Sanctuary Cave - Waterwalk armed", "Dark Graveyard - Waterwalk armed"]
+    - ["Dark Graveyard - Waterwalk armed", "Dark Hylia River Bend West - Waterwalk armed"]
+    - ["Dark Hylia River Bend West - Waterwalk armed", "Dark Hylia River Bend - Waterwalk"]
+    - ["Dark Hylia River Bend - Waterwalk", "Dark Hylia River Bend East"]

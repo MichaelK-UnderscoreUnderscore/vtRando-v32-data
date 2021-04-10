@@ -37,4 +37,12 @@ return [
         'type' => 'region',
         'moonpearl' => true,
     ],
+    
+    #Glitched Vertices
+    [
+        'map' => 0x40,
+        'name' => "Skull Woods Southeast Branch - Waterwalk armed",
+        'type' => 'region',
+        'moonpearl' => true,
+    ],
 ];

@@ -7,4 +7,12 @@ return [
         'type' => 'region',
         'moonpearl' => true,
     ],
+
+    #Glitched Vertices
+    [
+        'map' => 0x53,
+        'name' => "Dark Sanctuary Cave - Waterwalk armed",
+        'type' => 'region',
+        'moonpearl' => true,
+    ],
 ];

@@ -49,4 +49,12 @@ return [
         'type' => 'region',
         'moonpearl' => true,
     ],
+
+    #Glitched Vertices
+    [
+        'map' => 0x54,
+        'name' => "Dark Graveyard - Waterwalk armed",
+        'type' => 'region',
+        'moonpearl' => true,
+    ],
 ];
