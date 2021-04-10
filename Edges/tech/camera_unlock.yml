@@ -1,6 +1,8 @@
 Fixed: 
   directed:
     - ["Palace of Darkness - Mimics 1 - E/W Camera", "Palace of Darkness - Conveyor"]
+    - ["Ganon's Tower - Spike Switches", "Ganon's Tower - Mimics 1 - E/W Camera"]
+    - ["Palace of Darkness - Mimics 1 - E/W Camera", "Palace of Darkness - Mimics 2"]
   undirected: []
 Bottle: # Potion Camera Unlock
   directed:

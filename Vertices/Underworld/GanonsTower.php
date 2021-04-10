@@ -832,4 +832,13 @@ return [
         'item' => 'Agahnim2Defeated',
         'itemset' => ['gt'],
     ],
+
+    # Glitched Vertices
+    [
+        'group' => 16,
+        'roomid' => 0x6b,
+        'layout' => Region::BOTTOM_LEFT,
+        'name' => "Ganon's Tower - Mimics 1 - E/W Camera",
+        'type' => 'region',
+    ],
 ];
