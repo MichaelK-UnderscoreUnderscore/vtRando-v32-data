@@ -1,0 +1,8 @@
+fixed:
+  directed:
+    - ["Secrect Passage Exit", "Hyrule Castle - Courtyard NE Nook"]
+    - ["Hyrule Castle - Lobby", "Hyrule Castle - Courtyard"]
+    - ["Hyrule Castle - East", "Hyrule Castle - Wall Walk"]
+    - ["Hyrule Castle - West", "Hyrule Castle - Wall Walk"]
+    - ["Hyrule Castle - Throne Room", "Hyrule Castle - Mantle"]
+  undirected: []

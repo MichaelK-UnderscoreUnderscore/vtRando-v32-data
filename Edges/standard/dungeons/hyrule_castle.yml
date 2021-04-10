@@ -1,0 +1,19 @@
+fixed:
+  directed:
+    - ["Secrect Passage Exit", "Rain - Hyrule Castle - Courtyard"]
+    - ["Hyrule Castle - Lobby", "Rain - Hyrule Castle - Courtyard"]
+    - ["Hyrule Castle - East", "Rain - Hyrule Castle - Wall Walk"]
+    - ["Hyrule Castle - West", "Rain - Hyrule Castle - Wall Walk"]
+  undirected: []
+LostZelda:
+  directed:
+    - ["Hyrule Castle - Throne Room", "Hyrule Castle - Mantle"]
+  undirected: []
+RescueZelda:
+  directed:
+    - ["Sewers - Switch Puzzle", "Sanctuary Hall"]
+    - ["Secrect Passage Exit", "Hyrule Castle - Courtyard NE Nook"]
+    - ["Hyrule Castle - Lobby", "Hyrule Castle - Courtyard"]
+    - ["Hyrule Castle - East", "Hyrule Castle - Wall Walk"]
+    - ["Hyrule Castle - West", "Hyrule Castle - Wall Walk"]
+  undirected: []

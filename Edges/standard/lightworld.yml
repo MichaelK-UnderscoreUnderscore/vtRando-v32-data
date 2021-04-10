@@ -1,0 +1,17 @@
+fixed:
+  directed:
+    - ["Rain - Hyrule Castle - Wall Walk", "Rain - Hyrule Castle - Courtyard"]
+    - ["Rain - Hyrule Castle - Courtyard", "Secrect Passage Exit"]
+    - ["Rain - Hyrule Castle - Courtyard", "Hyrule Castle - Lobby"]
+    - ["Rain - Hyrule Castle - Wall Walk", "Hyrule Castle - East"]
+    - ["Rain - Hyrule Castle - Wall Walk", "Hyrule Castle - West"]
+  undirected:
+    - ["Rain - Link's House", "Rain - Hyrule Castle - Outer Court"]
+RescueZelda:
+  directed:
+    - ["Rain - Link's House", "Link's House - Bedroom"]
+  undirected: []
+LiftBush:
+  directed:
+    - ["Rain - Hyrule Castle - Outer Court", "Secrect Passage Uncle"]
+  undirected: []
