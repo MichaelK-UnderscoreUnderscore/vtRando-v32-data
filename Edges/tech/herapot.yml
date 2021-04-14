@@ -1,0 +1,10 @@
+Hookshot:
+  directed:
+    - ["Tower of Hera - Entrance - Orange Pegs - Upper - Superspeed", "Tower Of Hera - Fairy Refill"]
+    - ["Tower of Hera - Entrance - Blue Pegs - Upper - Superspeed", "Tower Of Hera - Fairy Refill"]
+  undirected: []
+  UseBomb:
+    directed:
+      - ["Tower of Hera - Entrance - Orange Pegs - Upper", "Tower Of Hera - Fairy Refill"]
+      - ["Tower of Hera - Entrance - Blue Pegs - Upper", "Tower Of Hera - Fairy Refill"]
+    undirected: []

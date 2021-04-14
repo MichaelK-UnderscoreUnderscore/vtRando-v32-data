@@ -30,10 +30,6 @@ Hookshot:
   directed:
   - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
   undirected: []
-Hookshot:
-  directed:
-  - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]
-  undirected: []
 CaneOfSomaria:
   directed:
   - ["Tower Of Hera - Entrance", "Tower Of Hera - Crystal Switch"]

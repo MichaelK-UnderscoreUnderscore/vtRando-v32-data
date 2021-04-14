@@ -18,7 +18,8 @@ fixed:
     - ["Tower Of Hera - Boss Room", "Tower of Hera - Boss"]
     - ["Tower of Hera - Boss", "Tower of Hera - Prize"]
   undirected:
-    - ["Tower Of Hera - Entrance - Blue Pegs - Lower", "Tower of Hera - Blue Pegs - Upper"]
+    - ["Tower Of Hera - Entrance - Blue Pegs - Lower", "Tower of Hera - Entrance - Blue Pegs - Upper"]
+    - ["Tower Of Hera - Entrance - Blue Pegs - Upper", "Tower of Hera - Entrance - Orange Pegs - Upper"]
     - ["Tower Of Hera - Entrance - Blue Pegs - Lower", "Tower Of Hera - Entrance - Orange Pegs - Lower"]
     - ["Tower Of Hera - Basement Corner", "Tower Of Hera - Hidden Chest"]
     - ["Tower Of Hera - Entrance - Blue Pegs - Lower", "Tower Of Hera - Moldorm Cage"]

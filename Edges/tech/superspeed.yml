@@ -1,0 +1,12 @@
+PegasusBoots:
+  Hookshot:
+    directed:
+      - ["Tower Of Hera - Entrance - Orange Pegs - Upper", "Tower of Hera - Entrance - Orange Pegs - Upper - Superspeed"]
+      - ["Tower Of Hera - Entrance - Blue Pegs - Upper", "Tower of Hera - Entrance - Blue Pegs - Upper - Superspeed"]
+    undirected: []
+  L1Sword:
+    directed:
+      - ["Tower Of Hera - Entrance - Orange Pegs - Upper", "Tower of Hera - Entrance - Orange Pegs - Upper - Superspeed"]
+      - ["Tower Of Hera - Entrance - Blue Pegs - Upper", "Tower of Hera - Entrance - Blue Pegs - Upper - Superspeed"]
+    undirected: []
+      
