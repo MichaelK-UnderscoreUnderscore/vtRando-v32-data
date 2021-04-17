@@ -178,6 +178,8 @@ BowAndArrows:
 Hookshot:
   directed:
     - ["Meta", "ArrghusPullPuffs"]
+    - ["ArmedSuperspeed", "SpeedHook"]
+    - ["UseBombs", "BombHook"]
   undirected: []
 ActiveBombos:
   directed:
@@ -336,4 +338,9 @@ HeartPiece|76:
 HeartPiece|80:
   directed:
     - ["Meta", "PHeart20"]
+  undirected: []
+PegasusBoots:
+  directed:
+    - ["L1Sword", "ArmedSuperspeed"]
+    - ["Hookshot", "ArmedSuperspeed"]
   undirected: []

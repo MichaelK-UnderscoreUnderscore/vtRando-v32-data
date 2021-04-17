@@ -413,4 +413,34 @@ return [
     ],
     // BHeart1 = 1 BossHeartContainer => HeartContainer
     // BHeart2 = 2 BossHeartContainer => HeartContainer
+
+
+
+    // -- Pseudo Items for Glitched --
+    
+    // Super Speed Arming, used in:
+    // superspeed_state_clipping.yml
+    [
+        'name' => 'ArmedSuperspeed',
+        'type' => 'meta',
+    ],
+    // Super Speed + Hookshot, used in:
+    // herapot.yml
+    [
+        'name' => 'SpeedHook',
+        'type' => 'meta',
+    ],
+    // Bombs + Hookshot, used in:
+    // herapot.yml
+    [
+        'name' => 'BombHook',
+        'type' => 'meta',
+    ],
+    // Bombs + Pegasus Boots, used in:
+    // bomb_clip.yml
+    [
+        'name' => 'BombBoots',
+        'type' => 'meta',
+    ],
+
 ];
