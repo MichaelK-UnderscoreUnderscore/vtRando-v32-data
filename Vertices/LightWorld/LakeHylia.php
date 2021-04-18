@@ -57,5 +57,11 @@ return [
         'type' => 'region',
         'moonpearl' => false,
     ],
+    [
+        'map' => 0x35,
+        'name' => "Lake Hylia - Waterwalk armed",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
     
 ];

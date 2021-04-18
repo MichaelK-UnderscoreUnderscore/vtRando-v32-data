@@ -14,7 +14,7 @@ MagicMirror:
     - ["Dark Graveyard North Nook", "Graveyard Northern Nook"]
     - ["Stumpy Grove Entrance", "Cave 45 Ledge"]
     - ["Stumpy Grove Entrance Circle of Bushes", "Cave 45 Ledge"]
-    - ["Dark Lake Hylia", "Lake Hylia Small Island"]
+    - ["Dark Lake Hylia Splotch of Shallow Water That Is Circumscribed by 10 Rocks", "Lake Hylia Small Island"]
     - ["West of Swamplands", "Bombos Tablet Ledge East"]
     - ["Turtle Rock Outside Bridge", "East Death Mountain Spiral Cave Balcony"]
     - ["Turtle Rock Outside Bridge", "East Death Mountain Mimic Balcony"]
@@ -22,4 +22,7 @@ MagicMirror:
     - ["Bomb Shoppe", "Link's House"]
     # special case for filling swamp
     - ["Swamplands Palace Entrance", "FillSwamp"] # disable this in entrance
+    
+    # special case for waterwalk glitch
+    - ["Dark Lake Hylia - Waterwalk", "Lake Hylia Small Island"]
   undirected: []
