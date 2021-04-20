@@ -1,0 +1,6 @@
+Fixed:
+  directed:
+    - ["Palace of Darkness - Mimics 1", "Palace of Darkness - Conveyor"]
+    - ["Ganon's Tower - Mimics 1", "Ganon's Tower - Mimics 2"]
+    - ["Ganon's Tower - Mimics 2", "Ganon's Tower - Dragmire Statues"]
+  undirected: []

@@ -27,4 +27,18 @@ return [
         'type' => 'standing',
         'itemset' => ['lw'],
     ],
+
+    #Glitched Vertices
+    [
+        'map' => 0x81,
+        'name' => "Zora's Domain - Waterwalking",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
+    [
+        'map' => 0x81,
+        'name' => "Zora's Domain - Waterwalk armed",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
 ];

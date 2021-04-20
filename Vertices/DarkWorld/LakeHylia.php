@@ -103,4 +103,12 @@ return [
         'type' => 'region',
         'moonpearl' => true,
     ],
+	
+    #Glitched Vertices
+    [
+        'map' => 0x75,
+        'name' => "Dark Lake Hylia - Waterwalk",
+        'type' => 'region',
+        'moonpearl' => true,
+    ],
 ];

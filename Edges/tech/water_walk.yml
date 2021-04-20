@@ -2,15 +2,24 @@ Fixed:
   directed:
             # Light World
     - ["South Shore Falls - Waterwalk armed", "South Shore Falls Waters - Waterwalk"]
+    - ["Lake Hylia - Waterwalk", "Zora's Falls Pool - Waterwalk"]
     - ["Zora's Falls Pool - Waterwalk", "Zora's Falls"]
     - ["Hobo Bridge River - Waterwalk", "Hobo"]
+    - ["Zora's Domain - Waterwalk armed", "Zora's Domain Ledge"]
             #Dark World
+    - ["Dark Hylia River Bend West - Waterwalk armed", "Dark Hylia River Bend - Waterwalk"]
+    - ["Dark Hylia River Bend - Waterwalk", "Dark Hylia River Bend East"]
+    - ["Dark Lake Hylia Waterfall Brook - Waterwalk", "Dark Lake Hylia Waterfall"]
+    - ["Dark Lake Hylia - Waterwalk", "Dark Lake Hylia Northwest Ledge"]
+    - ["Dark Lake Hylia - Waterwalk", "Dark Lake Hylia Ice Palace Island"]
   undirected:
             # Light World
     - ["South Shore Falls Waters - Waterwalk", "Lake Hylia - Waterwalk"]
     - ["Lake Hylia - Waterwalk", "Zora's Falls Pool - Waterwalk"]
+    - ["Lake Hylia - Waterwalk armed", "Zora's Falls Pool - Waterwalk armed"]
     - ["Zora's Falls Pool - Waterwalk", "Waterfall Fairy"]
     - ["Zora's Falls Pool - Waterwalk", "Zora's Domain Waterwalking"]
+    - ["Zora's Falls Pool - Waterwalk armed", "Zora's Domain - Waterwalk armed"]
     - ["Lake Hylia - Waterwalk", "Lake Hylia River Bend - Waterwalk"]
     - ["Hobo Bridge River - Waterwalk", "Lake Hylia River Bend - Waterwalk"]
             #Dark World
@@ -19,12 +28,12 @@ Fixed:
     - ["Dark Northwest Pond - Waterwalk armed", "Dark Sanctuary Cave - Waterwalk armed"]
     - ["Dark Sanctuary Cave - Waterwalk armed", "Dark Graveyard - Waterwalk armed"]
     - ["Dark Graveyard - Waterwalk armed", "Dark Hylia River Bend West - Waterwalk armed"]
-    - ["Dark Hylia River Bend West - Waterwalk armed", "Dark Hylia River Bend - Waterwalk"]
-    - ["Dark Hylia River Bend - Waterwalk", "Dark Hylia River Bend East"]
+    - ["Dark Hylia River Bend - Waterwalk", "Dark Lake Hylia Waterfall Brook - Waterwalk"]
+    - ["Dark Lake Hylia Waterfall Brook - Waterwalk", "Dark Lake Hylia - Waterwalk"]
 PegasusBoots:
   directed:
             # Light World
-    - ["Ice Cave", "South Shore Falls - Waterwalk armed "]
+    - ["Ice Cave", "South Shore Falls - Waterwalk armed"]
             #Dark World
     - ["Skull Woods Southeast Branch", "Skull Woods Southeast Branch - Waterwalk armed"]
   undirected: []

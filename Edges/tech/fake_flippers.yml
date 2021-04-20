@@ -1,6 +1,7 @@
 fixed:
   directed:
     - ["South Shore Falls", "Lake Hylia"]
+    - ["South Shore Falls - Waterwalk armed", "Lake Hylia - Waterwalk armed"]
   undirected: []
 MoonPearl:
   directed:
