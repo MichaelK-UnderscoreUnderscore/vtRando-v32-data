@@ -1,0 +1,30 @@
+fixed:
+  directed:
+    - ["Lumberjack Right Mountain - First Ledge - Middle Area", "Lumberjack Right Mountain - First Ledge - Lower Area"]
+    - ["West Death Mountain South Wrapped", "West Dark Death Mountain South Wrapped"]
+    - ["West Death Mountain Summit South Wrapped", "Tower of Hera - Entrance"]
+    - ["West Death Mountain Summit South Wrapped", "West Death Mountain Summit"] #Over ToH, but ToH Entry needs to be directed
+  undirected:
+    - ["West Death Mountain Right Transition Wall - Upper Ledge", "East Death Mountain Left Transition Wall - Upper Ledge"]
+    - ["West Death Mountain Right Transition Wall - Lower Ledge", "East Death Mountain Landbridge"]
+hop:
+  directed:
+    - ["Lumberjack Right Mountain - First Ledge - Upper Area", "Lumberjacks"]
+    - ["Lumberjack Right Mountain - First Ledge - Middle Area", "Lumberjacks"]
+    - ["Lumberjack Right Mountain - First Ledge - Lower Area", "Lumberjacks"]
+    - ["Lumberjack Right Mountain - Second Ledge", "Lumberjacks"]
+    - ["Lumberjack Right Mountain - Second Ledge", "Lumberjacks"]
+    - ["West Death Mountain Left Cloud See", "West Death Mountain Summit"] #Link
+    - ["West Death Mountain Slightly South Wrapped", "West Death Mountain Summit South Wrapped"]
+    - ["West Death Mountain Summit South Wrapped", "West Death Mountain South Wrapped"]
+    - ["East Death Mountain Landbridge", "East Death Mountain Landbridge - Ledge"]
+    - ["East Death Mountain Landbridge - Ledge", "East Death Mountain Hookshot Bridge"]
+    - ["East Death Mountain Landbridge", "East Death Mountain Summit"]
+    - ["East Death Mountain Landbridge", "East Death Mountain Running Man"]
+    - ["East Death Mountain Landbridge", "East Death Mountain Upper Void"]
+    - ["East Death Mountain Lower Void", "East Death Mountain Running Man"]
+  undirected: []
+
+
+
+

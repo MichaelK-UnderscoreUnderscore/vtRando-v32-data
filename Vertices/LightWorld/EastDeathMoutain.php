@@ -63,4 +63,41 @@ return [
         'itemset' => ['lw'],
     ],
 
+    // Glitched Vertices
+    [
+        'map' => 0x05,
+        'name' => "East Death Mountain Landbridge",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
+    [
+        'map' => 0x05,
+        'name' => "East Death Mountain Landbridge - Ledge",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
+    [
+        'map' => 0x05,
+        'name' => "East Death Mountain Left Transition Wall - Upper Ledge",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
+    [
+        'map' => 0x05,
+        'name' => "East Death Mountain Clouds",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
+    [
+        'map' => 0x05,
+        'name' => "East Death Mountain Lower Void",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
+    [
+        'map' => 0x05,
+        'name' => "East Death Mountain Upper Void",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
 ];

@@ -442,5 +442,10 @@ return [
         'name' => 'BombBoots',
         'type' => 'meta',
     ],
-
+    // Pegasus Boots + Jump, used in:
+    // boots_clip.yml
+    [
+        'name' => 'BootsJump',
+        'type' => 'meta',
+    ],
 ];

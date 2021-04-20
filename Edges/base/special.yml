@@ -343,4 +343,5 @@ PegasusBoots:
   directed:
     - ["L1Sword", "ArmedSuperspeed"]
     - ["Hookshot", "ArmedSuperspeed"]
+    - ["Hop", "BootsJump"] #x
   undirected: []

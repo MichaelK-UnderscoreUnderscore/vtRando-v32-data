@@ -37,4 +37,11 @@ return [
         'type' => 'region',
         'moonpearl' => false,
     ],
+    // Glitched Vertices
+    [
+        'map' => 0x14,
+        'name' => "Above Graveyard Ledge",
+        'type' => 'region',
+        'moonpearl' => false,
+    ],
 ];

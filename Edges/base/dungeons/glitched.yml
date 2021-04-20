@@ -1,0 +1,12 @@
+fixed:
+  directed:
+    - ["Lumberjack Right Mountain - First Ledge - Middle Area", "Lumberjack Right Mountain - First Ledge - Lower Area"]
+  undirected: []
+hop:
+  directed:
+    - ["Lumberjack Right Mountain - First Ledge - Upper Area", "Lumberjacks"]
+    - ["Lumberjack Right Mountain - First Ledge - Middle Area", "Lumberjacks"]
+    - ["Lumberjack Right Mountain - First Ledge - Lower Area", "Lumberjacks"]
+    - ["Lumberjack Right Mountain - Second Ledge", "Lumberjacks"]
+    - ["West Death Mountain Left Cloud See", "West Death Mountain Summit"]
+  undirected: []

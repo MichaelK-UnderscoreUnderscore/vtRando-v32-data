@@ -1,15 +1,28 @@
-# Everything with a "#x" should be done better...
+# Everything in here needs Linkstate #Link
 
-PegasusBoots:
+
+BootsJump:
   directed:
   ## Light World ##
   # Lost Woods
   # //Lost Woods//
   # Lumberjack OW
+    - ["Lumberjacks", "Lumberjack Right Mountain - First Ledge - Lower Area"]
+    - ["Lumberjacks", "Lumberjack Right Mountain - First Ledge - Middle Area"]
+    - ["Lumberjack Right Mountain - First Ledge - Lower Area", "Lumberjack Right Mountain - Second Ledge"]
+    - ["Lumberjack Right Mountain - First Ledge - Middle Area", "West Death Mountain Left Cloud See"]
   # West Light Death Mountain
-    - ["West Death Mountain", "Graveyard Ledge"] #x
+    - ["West Death Mountain Summit", "West Death Mountain Left Cloud See"]
+    - ["West Death Mountain Summit", "West Death Mountain Right Cloud See"]
+    - ["West Death Mountain Summit", "West Death Mountain Right Transition Wall - Upper Ledge"]
+    - ["West Dark Death Mountain", "West Death Mountain Right Transition Wall - Lower Ledge"]
+    - ["West Dark Death Mountain", "Above Graveyard Ledge"]
+    - ["West Dark Death Mountain", "Sanctuary"]
   # //West Light Death Mountain//
   # East Light Death Mountain
+    - ["East Death Mountain Summit", "East Death Mountain Landbridge"]
+    - ["East Death Mountain Hammer Bridge", "East Death Mountain Landbridge"]
+    - ["East Death Mountain Hookshot Bridge", "East Death Mountain Lower Void"]
   # //East Light Death Mountain//
   # Light World TR
   # //Lost Woods//
@@ -23,7 +36,6 @@ PegasusBoots:
   # Above Kakariko West
   # Above Kakariko East
   # West of Sanctuary
-    - ["Northwest Pond", "West Death Mountain"] #x
   # Sanctuary
   # Graveyard
   # River Fairy
@@ -46,15 +58,11 @@ PegasusBoots:
   # //Eastern Overworld//
   # //Eastern Overworld//
   # Race Game
-    - ["Race Game", "Desert Ledge"] #x
-    - ["Race Game", "Desert Ledge - Part 2"] #x
   # Library
-    - ["South Kakariko", "Checkerboard Ledge"] #x
   # Digging Grove
   # West of Links House
   # Links House
   # Hobos Bridge
-    - ["Hobo Bridge", "Lake Hylia Small Island"] #x
   # Way to Eastern
   # Eastern Portal
   # Desert Overworld
