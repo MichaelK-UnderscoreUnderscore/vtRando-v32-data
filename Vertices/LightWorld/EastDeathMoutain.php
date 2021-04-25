@@ -51,7 +51,7 @@ return [
     ],
     [
         'map' => 0x05,
-        'name' => "East Death Mountain FLoating Island",
+        'name' => "East Death Mountain Floating Island",
         'type' => 'region',
         'moonpearl' => false,
     ],

@@ -48,7 +48,7 @@ fixed:
     - ["West Death Mountain", "Spectacle Rock Cave Exit"]
     - ["Lake Hylia Small Island", "Lake Hylia Island"]
     - ["East Death Mountain Mimic Balcony", "Mimic Cave Entrance"]
-    - ["East Death Mountain FLoating Island", "Floating Island"]
+    - ["East Death Mountain Floating Island", "Floating Island"]
     - ["Smith's House", "Blacksmith House"]
     - ["Kakariko Village", "Kakariko Shop"]
   undirected:

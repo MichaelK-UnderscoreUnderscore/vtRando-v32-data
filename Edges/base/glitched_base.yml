@@ -1,28 +1,452 @@
 fixed:
   directed:
+  ## Light World ##
+  # Lost Woods
+  # //Lost Woods//
+  # Lumberjack OW
     - ["Lumberjack Right Mountain - First Ledge - Middle Area", "Lumberjack Right Mountain - First Ledge - Lower Area"]
+  # West Light Death Mountain
     - ["West Death Mountain South Wrapped", "West Dark Death Mountain South Wrapped"]
     - ["West Death Mountain Summit South Wrapped", "Tower of Hera - Entrance"]
     - ["West Death Mountain Summit South Wrapped", "West Death Mountain Summit"] #Over ToH, but ToH Entry needs to be directed
+  # //West Light Death Mountain//
+  # East Light Death Mountain
+  # //East Light Death Mountain//
+  # Light World TR
+  # //Lost Woods//
+  # //Lost Woods//
+  # DMA Cave
+  # //West Light Death Mountain//
+  # //West Light Death Mountain//
+  # //East Light Death Mountain//
+  # //East Light Death Mountain//
+  # Zora & Waterfall of Wishing
+  # Above Kakariko West
+  # Above Kakariko East
+  # West of Sanctuary
+  # Sanctuary
+  # Graveyard
+  # River Fairy
+  # Witch
+  # Path to Zora
+  # Kakariko
+  # //Kakariko//
+  # West of the Castle
+  # Hyrule Castle
+  # //Hyrule Castle//
+  # Wooden River Bridge
+  # Eastern Overworld
+  # //Eastern Overworld//
+  # //Kakariko//
+  # //Kakariko//
+  # Smith House
+  # //Hyrule Castle//
+  # //Hyrule Castle//
+  # Octorock Overworld
+  # //Eastern Overworld//
+  # //Eastern Overworld//
+  # Race Game
+  # Library
+  # Digging Grove
+  # West of Links House
+  # Links House
+  # Hobos Bridge
+  # Way to Eastern
+  # Eastern Portal
+  # Desert Overworld
+    - ["Desert", "Bombos Tablet Ledge West"]
+  # //Desert Overworld//
+  # South of the Grove
+    - ["Haunted Grove Entrance", "Cave 45 Ledge"]
+  # Links House Portal
+  # Light Hype
+  # Lake Hylia
+  # //Lake Hylia//
+  # Ice Rod Cave
+  # //Desert Overworld//
+  # //Desert Overworld//
+  # Locksmith
+  # Light World Swamp
+  # East of Swamp
+  # //Lake Hylia//
+  # //Lake Hylia//
+  # South of Ice Rod Cave
+
+    
+  ## Dark World ##
+  # Skull Woods Overworld
+  # //Skull Woods Overworld//
+  # Dark Lumberjack OW
+  # West Dark Death Mountain
+  # //West Dark Death Mountain//
+  # East Dark Death Mountain
+  # //East Dark Death Mountain//
+  # TR Entrance
+  # //Skull Woods Overworld//
+  # //Skull Woods Overworld//
+  # Bumper Cave
+  # //West Dark Death Mountain//
+  # //West Dark Death Mountain//
+  # //East Dark Death Mountain//
+  # //East Dark Death Mountain//
+  # Catfish
+  # Above Village of the Outcast West
+  # Above Village of the Outcast East
+  # West of Dark Sanctuary
+  # Dark Sanctuary
+  # Dark Graveyard Maze
+  # Dark River Fairy
+  # Dark Witch
+  # Path to Catfish
+  # Village of the Outcast
+  # //Village of the Outcast//
+  # Curiosity Shop
+  # Pyramid
+  # //Pyramid//
+  # Broken River Bridge
+  # Palace of Darkness Overworld
+  # //Palace of Darkness Overworld//
+  # //Village of the Outcast//
+  # //Village of the Outcast//
+  # Hammer Pegs
+  # //Pyramid//
+  # //Pyramid//
+  # Dark Octorock Overworld
+  # //Palace of Darkness Overworld//
+  # //Palace of Darkness Overworld//
+  # Digging Game
+  # Frog Pickup
+  # A Stump on a Stump
+  # West of Bomb Shop
+  # Bomb Shop
+  # Peg Bridge
+  # Way to Palace of Darkness
+  # Palace of Darkness Portal
+  # Mire Overworld
+  # //Mire Overworld//
+  # South of the Grove
+  # Bomb Shop Portal
+  # Hype Cave
+  # Dark Lake Hylia
+  # //Dark Lake Hylia//
+  # Dark Ice Rod Cave
+  # //Mire Overworld//
+  # //Mire Overworld//
+  # Mirror to Bombos Tablet... as if you'd do that when loading this file :)
+  # Swamp Palace
+  # East of Swamp Palace
+  # //Dark Lake Hylia//
+  # //Dark Lake Hylia//
+  # South of Dark Ice Rod Cave
+  
+
+  ## Sub Areas ##
+  # Zoras Domain
+  # Master Sword Pedastal
+  # Hobo
   undirected:
+  ## Light World ##
+  # Lost Woods
+  # //Lost Woods//
+  # Lumberjack OW
+  # West Light Death Mountain
+    - ["West Death Mountain Right Clouds", "East Death Mountain Clouds"] #Link
     - ["West Death Mountain Right Transition Wall - Upper Ledge", "East Death Mountain Left Transition Wall - Upper Ledge"]
     - ["West Death Mountain Right Transition Wall - Lower Ledge", "East Death Mountain Landbridge"]
+  # //West Light Death Mountain//
+  # East Light Death Mountain
+  # //East Light Death Mountain//
+  # Light World TR
+  # //Lost Woods//
+  # //Lost Woods//
+  # DMA Cave
+  # //West Light Death Mountain//
+  # //West Light Death Mountain//
+  # //East Light Death Mountain//
+  # //East Light Death Mountain//
+  # Zora & Waterfall of Wishing
+  # Above Kakariko West
+  # Above Kakariko East
+  # West of Sanctuary
+  # Sanctuary
+  # Graveyard
+  # River Fairy
+  # Witch
+  # Path to Zora
+  # Kakariko
+  # //Kakariko//
+  # West of the Castle
+  # Hyrule Castle
+  # //Hyrule Castle//
+  # Wooden River Bridge
+  # Eastern Overworld
+  # //Eastern Overworld//
+  # //Kakariko//
+  # //Kakariko//
+  # Smith House
+  # //Hyrule Castle//
+  # //Hyrule Castle//
+  # Octorock Overworld
+  # //Eastern Overworld//
+  # //Eastern Overworld//
+  # Race Game
+  # Library
+  # Digging Grove
+  # West of Links House
+  # Links House
+  # Hobos Bridge
+  # Way to Eastern
+  # Eastern Portal
+  # Desert Overworld
+    - ["Desert", "Bombos Tablet Ledge West"]
+  # //Desert Overworld//
+  # South of the Grove
+    - ["Haunted Grove Entrance", "Cave 45 Ledge"]
+  # Links House Portal
+  # Light Hype
+  # Lake Hylia
+  # //Lake Hylia//
+  # Ice Rod Cave
+  # //Desert Overworld//
+  # //Desert Overworld//
+  # Locksmith
+  # Light World Swamp
+  # East of Swamp
+  # //Lake Hylia//
+  # //Lake Hylia//
+  # South of Ice Rod Cave
+
+    
+  ## Dark World ##
+  # Skull Woods Overworld
+  # //Skull Woods Overworld//
+  # Dark Lumberjack OW
+  # West Dark Death Mountain
+  # //West Dark Death Mountain//
+  # East Dark Death Mountain
+  # //East Dark Death Mountain//
+  # TR Entrance
+  # //Skull Woods Overworld//
+  # //Skull Woods Overworld//
+  # Bumper Cave
+  # //West Dark Death Mountain//
+  # //West Dark Death Mountain//
+  # //East Dark Death Mountain//
+  # //East Dark Death Mountain//
+  # Catfish
+  # Above Village of the Outcast West
+  # Above Village of the Outcast East
+  # West of Dark Sanctuary
+  # Dark Sanctuary
+  # Dark Graveyard Maze
+  # Dark River Fairy
+  # Dark Witch
+  # Path to Catfish
+  # Village of the Outcast
+  # //Village of the Outcast//
+  # Curiosity Shop
+  # Pyramid
+  # //Pyramid//
+  # Broken River Bridge
+  # Palace of Darkness Overworld
+  # //Palace of Darkness Overworld//
+  # //Village of the Outcast//
+  # //Village of the Outcast//
+  # Hammer Pegs
+  # //Pyramid//
+  # //Pyramid//
+  # Dark Octorock Overworld
+  # //Palace of Darkness Overworld//
+  # //Palace of Darkness Overworld//
+  # Digging Game
+  # Frog Pickup
+  # A Stump on a Stump
+  # West of Bomb Shop
+  # Bomb Shop
+  # Peg Bridge
+  # Way to Palace of Darkness
+  # Palace of Darkness Portal
+  # Mire Overworld
+  # //Mire Overworld//
+  # South of the Grove
+  # Bomb Shop Portal
+  # Hype Cave
+  # Dark Lake Hylia
+  # //Dark Lake Hylia//
+  # Dark Ice Rod Cave
+  # //Mire Overworld//
+  # //Mire Overworld//
+  # Mirror to Bombos Tablet... as if you'd do that when loading this file :)
+  # Swamp Palace
+  # East of Swamp Palace
+  # //Dark Lake Hylia//
+  # //Dark Lake Hylia//
+  # South of Dark Ice Rod Cave
+  
+
+  ## Sub Areas ##
+  # Zoras Domain
+  # Master Sword Pedastal
+  # Hobo
 hop:
   directed:
+  ## Light World ##
+  # Lost Woods
+  # //Lost Woods//
+  # Lumberjack OW
     - ["Lumberjack Right Mountain - First Ledge - Upper Area", "Lumberjacks"]
     - ["Lumberjack Right Mountain - First Ledge - Middle Area", "Lumberjacks"]
     - ["Lumberjack Right Mountain - First Ledge - Lower Area", "Lumberjacks"]
-    - ["Lumberjack Right Mountain - Second Ledge", "Lumberjacks"]
-    - ["Lumberjack Right Mountain - Second Ledge", "Lumberjacks"]
-    - ["West Death Mountain Left Cloud See", "West Death Mountain Summit"] #Link
+    - ["Lumberjack Right Mountain - Second Ledge", "Lumberjack Right Mountain - First Ledge - Middle Area"]
+    - ["Lumberjack Right Mountain - Second Ledge", "Lumberjack Right Mountain - First Ledge - Lower Area"]
+  # West Light Death Mountain
+    - ["West Death Mountain Left Clouds", "West Death Mountain Summit"] #Link
     - ["West Death Mountain Slightly South Wrapped", "West Death Mountain Summit South Wrapped"]
     - ["West Death Mountain Summit South Wrapped", "West Death Mountain South Wrapped"]
+    - ["West Death Mountain Right Clouds", "West Death Mountain South Wrapped"]
+  # //West Light Death Mountain//
+  # East Light Death Mountain
+    - ["East Death Mountain Clouds", "East Death Mountain Floating Island"] #Link
+    - ["East Death Mountain Clouds", "East Death Mountain Summit"]
     - ["East Death Mountain Landbridge", "East Death Mountain Landbridge - Ledge"]
     - ["East Death Mountain Landbridge - Ledge", "East Death Mountain Hookshot Bridge"]
     - ["East Death Mountain Landbridge", "East Death Mountain Summit"]
     - ["East Death Mountain Landbridge", "East Death Mountain Running Man"]
     - ["East Death Mountain Landbridge", "East Death Mountain Upper Void"]
     - ["East Death Mountain Lower Void", "East Death Mountain Running Man"]
+  # //East Light Death Mountain//
+  # Light World TR
+  # //Lost Woods//
+  # //Lost Woods//
+  # DMA Cave
+  # //West Light Death Mountain//
+  # //West Light Death Mountain//
+  # //East Light Death Mountain//
+  # //East Light Death Mountain//
+  # Zora & Waterfall of Wishing
+  # Above Kakariko West
+  # Above Kakariko East
+  # West of Sanctuary
+  # Sanctuary
+  # Graveyard
+  # River Fairy
+  # Witch
+  # Path to Zora
+  # Kakariko
+  # //Kakariko//
+  # West of the Castle
+  # Hyrule Castle
+  # //Hyrule Castle//
+  # Wooden River Bridge
+  # Eastern Overworld
+  # //Eastern Overworld//
+  # //Kakariko//
+  # //Kakariko//
+  # Smith House
+  # //Hyrule Castle//
+  # //Hyrule Castle//
+  # Octorock Overworld
+  # //Eastern Overworld//
+  # //Eastern Overworld//
+  # Race Game
+  # Library
+  # Digging Grove
+  # West of Links House
+  # Links House
+  # Hobos Bridge
+  # Way to Eastern
+  # Eastern Portal
+  # Desert Overworld
+    - ["Desert", "Bombos Tablet Ledge West"]
+  # //Desert Overworld//
+  # South of the Grove
+    - ["Haunted Grove Entrance", "Cave 45 Ledge"]
+  # Links House Portal
+  # Light Hype
+  # Lake Hylia
+  # //Lake Hylia//
+  # Ice Rod Cave
+  # //Desert Overworld//
+  # //Desert Overworld//
+  # Locksmith
+  # Light World Swamp
+  # East of Swamp
+  # //Lake Hylia//
+  # //Lake Hylia//
+  # South of Ice Rod Cave
+
+    
+  ## Dark World ##
+  # Skull Woods Overworld
+  # //Skull Woods Overworld//
+  # Dark Lumberjack OW
+  # West Dark Death Mountain
+  # //West Dark Death Mountain//
+  # East Dark Death Mountain
+  # //East Dark Death Mountain//
+  # TR Entrance
+  # //Skull Woods Overworld//
+  # //Skull Woods Overworld//
+  # Bumper Cave
+  # //West Dark Death Mountain//
+  # //West Dark Death Mountain//
+  # //East Dark Death Mountain//
+  # //East Dark Death Mountain//
+  # Catfish
+  # Above Village of the Outcast West
+  # Above Village of the Outcast East
+  # West of Dark Sanctuary
+  # Dark Sanctuary
+  # Dark Graveyard Maze
+  # Dark River Fairy
+  # Dark Witch
+  # Path to Catfish
+  # Village of the Outcast
+  # //Village of the Outcast//
+  # Curiosity Shop
+  # Pyramid
+  # //Pyramid//
+  # Broken River Bridge
+  # Palace of Darkness Overworld
+  # //Palace of Darkness Overworld//
+  # //Village of the Outcast//
+  # //Village of the Outcast//
+  # Hammer Pegs
+  # //Pyramid//
+  # //Pyramid//
+  # Dark Octorock Overworld
+  # //Palace of Darkness Overworld//
+  # //Palace of Darkness Overworld//
+  # Digging Game
+  # Frog Pickup
+  # A Stump on a Stump
+  # West of Bomb Shop
+  # Bomb Shop
+  # Peg Bridge
+  # Way to Palace of Darkness
+  # Palace of Darkness Portal
+  # Mire Overworld
+  # //Mire Overworld//
+  # South of the Grove
+  # Bomb Shop Portal
+  # Hype Cave
+  # Dark Lake Hylia
+  # //Dark Lake Hylia//
+  # Dark Ice Rod Cave
+  # //Mire Overworld//
+  # //Mire Overworld//
+  # Mirror to Bombos Tablet... as if you'd do that when loading this file :)
+  # Swamp Palace
+  # East of Swamp Palace
+  # //Dark Lake Hylia//
+  # //Dark Lake Hylia//
+  # South of Dark Ice Rod Cave
+  
+
+  ## Sub Areas ##
+  # Zoras Domain
+  # Master Sword Pedastal
+  # Hobo
   undirected: []
 
 

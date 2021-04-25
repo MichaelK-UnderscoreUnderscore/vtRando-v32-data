@@ -23,13 +23,13 @@ return [
     // Glitched Vertices
     [
         'map' => 0x43,
-        'name' => "West Dark Death Mountain Left Cloud See",
+        'name' => "West Dark Death Mountain Left Clouds",
         'type' => 'region',
         'moonpearl' => true,
     ],
     [
         'map' => 0x43,
-        'name' => "West Dark Death Mountain Right Cloud See",
+        'name' => "West Dark Death Mountain Right Clouds",
         'type' => 'region',
         'moonpearl' => true,
     ],

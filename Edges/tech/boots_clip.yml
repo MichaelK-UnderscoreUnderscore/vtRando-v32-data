@@ -10,17 +10,20 @@ BootsJump:
     - ["Lumberjacks", "Lumberjack Right Mountain - First Ledge - Lower Area"]
     - ["Lumberjacks", "Lumberjack Right Mountain - First Ledge - Middle Area"]
     - ["Lumberjack Right Mountain - First Ledge - Lower Area", "Lumberjack Right Mountain - Second Ledge"]
-    - ["Lumberjack Right Mountain - First Ledge - Middle Area", "West Death Mountain Left Cloud See"]
+    - ["Lumberjack Right Mountain - First Ledge - Middle Area", "West Death Mountain Left Clouds"]
   # West Light Death Mountain
-    - ["West Death Mountain Summit", "West Death Mountain Left Cloud See"]
-    - ["West Death Mountain Summit", "West Death Mountain Right Cloud See"]
+    - ["West Death Mountain Summit", "West Death Mountain Left Clouds"]
+    - ["West Death Mountain Summit", "West Death Mountain Right Clouds"]
     - ["West Death Mountain Summit", "West Death Mountain Right Transition Wall - Upper Ledge"]
     - ["West Dark Death Mountain", "West Death Mountain Right Transition Wall - Lower Ledge"]
     - ["West Dark Death Mountain", "Above Graveyard Ledge"]
     - ["West Dark Death Mountain", "Sanctuary"]
   # //West Light Death Mountain//
   # East Light Death Mountain
+    - ["East Death Mountain Floating Island", "East Death Mountain Clouds"]
+    - ["East Death Mountain Summit", "East Death Mountain Clouds"]
     - ["East Death Mountain Summit", "East Death Mountain Landbridge"]
+    - ["East Death Mountain Hammer Bridge", "East Death Mountain Clouds"]
     - ["East Death Mountain Hammer Bridge", "East Death Mountain Landbridge"]
     - ["East Death Mountain Hookshot Bridge", "East Death Mountain Lower Void"]
   # //East Light Death Mountain//
